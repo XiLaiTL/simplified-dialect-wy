@@ -2,6 +2,8 @@
 
 SIMPLIFIED DIALECT for wenyan-lang.
 
+>吾嘗觀「「简化方言」」之書。
+
 ## 序
 
 > 大幅度修改wenyan-lang的语法结构。增添了许多符号以方便书写和辨识。简化了许多语法。
